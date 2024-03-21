@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="center">🔭I am a Computer Engineering  Student at Istanbul  Kultur University.<br>🔭 Currently taking the C#, SQL , ASP.NET Core course offered free of charge by Acun Media Academy.<br>🔭I did my 1-month internship in a department where C# and SQL technologies are used.</h4>
+<h4 align="center">💻I am a Computer Engineering  Student at Istanbul  Kultur University.<br>💻 Currently taking the C#, SQL , ASP.NET Core course offered free of charge by Acun Media Academy.<br>💻I did my 1-month internship in a department where C# and SQL technologies are used.</h4>
 
 ###
 
