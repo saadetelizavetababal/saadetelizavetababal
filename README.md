@@ -1,6 +1,4 @@
-### Hi there 👋
 
-<!--
 **saadetelizavetababal/saadetelizavetababal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h4 align="center">Hi ! My name is Saadet Elizaveta Babal and i am from Türkiye</h4>
